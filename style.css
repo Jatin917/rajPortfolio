@@ -3,6 +3,7 @@ html,body{
     padding: 0;
     position: relative;
     font-family: 'Oswald', sans-serif;
+    scroll-behavior: smooth;
 }
 
 #main{
